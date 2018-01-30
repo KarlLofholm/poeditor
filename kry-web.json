@@ -16,6 +16,7 @@
 	"how_it_works": "How it works",
 	"added-silly-string": "Added silly string",
 	"added-silly-obj-string": {
-		"added-silly-string-in-obj": "Added silly string in obj"
+		"added-silly-string-in-obj": "Added silly string in obj",
+		"added-another-silly-string-in-obj": "Added another silly string in obj"
 	}
 }
