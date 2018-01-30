@@ -13,5 +13,9 @@
 	"instagram_url":"https://www.instagram.com/",
 	"contact": "Contact",
 	"korv_is_owned_by":"Korv is run and owned by Webbhälsa AB (556967-0820).",
-	"how_it_works": "How it works"
+	"how_it_works": "How it works",
+	"added-silly-string": "Added silly string",
+	"added-silly-obj-string": {
+		"added-silly-string-in-obj": "Added silly string in obj"
+	}
 }
